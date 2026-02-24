@@ -45,9 +45,14 @@ Muhammad Ali is a technology enthusiast and software engineer specializing in Ar
 At GIAIC, Muhammad Ali gained hands on experience through projects, hackathons, and workshops, working with emerging technologies in collaborative environments. His long-term goal is to specialize in AI-driven applications, cloud computing, and advanced full-stack development to build scalable and intelligent digital solutions.
 </p>
 
-• Explore my professional experience: **[https://portfolio-muhammad-ali.vercel.app/](https://portfolio-muhammad-ali.vercel.app/)**
 <h3 align="left">Get In Touch</h3>
 <p align="left">
+
+<!-- Portfolio (professional icon) -->
+<a href="https://portfolio-muhammad-ali.vercel.app/" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/planetscale.svg" alt="Portfolio" height="30" width="40" style="filter:invert(1)"/>
+</a>
+  
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/muhammadali-memon99" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
@@ -68,10 +73,7 @@ At GIAIC, Muhammad Ali gained hands on experience through projects, hackathons, 
     <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 
-  <!-- Portfolio (professional icon) -->
-<a href="https://portfolio-muhammad-ali.vercel.app/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/planetscale.svg" alt="Portfolio" height="30" width="40" style="filter:invert(1)"/>
-</a>
+  
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
