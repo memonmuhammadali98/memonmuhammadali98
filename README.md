@@ -45,10 +45,6 @@ Muhammad Ali is a technology enthusiast and software engineer specializing in Ar
 At GIAIC, Muhammad Ali gained hands on experience through projects, hackathons, and workshops, working with emerging technologies in collaborative environments. His long-term goal is to specialize in AI-driven applications, cloud computing, and advanced full-stack development to build scalable and intelligent digital solutions.
 </p>
 
-• All of my projects are publicly accessible on my GitHub profile, where you can explore my work, contributions, and ongoing developments. [https://github.com/memonmuhammadali98](https://github.com/memonmuhammadali98)
-
-• 📫 Feel free to contact me via email at **memonmuhammadali39@gmail.com**
-
 • Explore my professional experience: **[https://portfolio-muhammad-ali.vercel.app/](https://portfolio-muhammad-ali.vercel.app/)**
 <h3 align="left">Get In Touch</h3>
 <p align="left">
