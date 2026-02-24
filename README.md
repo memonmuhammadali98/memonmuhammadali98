@@ -1,3 +1,4 @@
+![logo](https://github.com/memonmuhammadali98/memonmuhammadali98/blob/main/GIT%20HUB%20BANNER.png)
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=36&pause=1500&color=000000&center=true&vCenter=true&width=700&height=80&lines=Hi+There!+This+is+Muhammad+Ali;Artificial+Intelligence+Specialist;Hi+There!+This+is+Muhammad+Ali&repeat=false" alt="Hi There! This is Muhammad Ali"/>
 </div>
