@@ -10,8 +10,11 @@
 
  𝐌𝐮𝐡𝐚𝐦𝐦𝐚𝐝 𝐀𝐥𝐢 | 𝐀𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝐓𝐞𝐜𝐡 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫 | 𝐀𝐈 & 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 
-<p align="justify"> Muhammad Ali is a passionate and driven technology enthusiast currently advancing his academic and practical expertise in Artificial Intelligence, Software Engineering, and Web Development through the President’s Initiative for Artificial Intelligence and Computing (PIAIC) and Governor Initiative for AI and Computing (GIAIC), Karachi. With a solid foundation across AI, modern web technologies, and software engineering principles, he is dedicated to leveraging cutting-edge tools and methodologies to design innovative, scalable, and impactful systems. </p> <p align="justify"> <strong>Technical Skills</strong><br><br>
+<p align="justify">
+Muhammad Ali is a technology enthusiast and software engineer specializing in Artificial Intelligence, Web Development, and Full-Stack Software Engineering. Currently advancing his skills through PIAIC and GIAIC, Karachi, he focuses on building scalable, innovative, and impactful digital solutions using modern tools and frameworks.
+</p>
 
+<p align="justify">
 <strong>Artificial Intelligence & Machine Learning</strong><br>
 • AI Concepts: Machine Learning, Deep Learning, Natural Language Processing (NLP), Neural Networks<br>
 • Tools & Frameworks: Python, TensorFlow, PyTorch, Scikit-learn, OpenCV<br>
@@ -37,8 +40,10 @@
 • Cloud & Deployment: Vercel, Netlify, AWS (Basics)<br>
 • Tools & Platforms: Visual Studio Code, Terminal/Command Line, Postman, Chrome DevTools<br>
 • Collaboration & Productivity: Jira, Trello, Slack, Notion
-
-</p> <p align="justify"> During his time at GIAIC, Muhammad Ali has actively participated in real world projects, hackathons, and industry led workshops, gaining valuable hands on exposure to emerging technologies and collaborative development environments. As he continues progressing in his professional journey, his long term objective is to specialize in AI driven applications, cloud computing, and advanced full stack development to build intelligent and scalable digital ecosystems. </p>
+</p>
+<p align="justify">
+At GIAIC, Muhammad Ali gained hands on experience through projects, hackathons, and workshops, working with emerging technologies in collaborative environments. His long-term goal is to specialize in AI-driven applications, cloud computing, and advanced full-stack development to build scalable and intelligent digital solutions.
+</p>
 
 • All of my projects are publicly accessible on my GitHub profile, where you can explore my work, contributions, and ongoing developments. [https://github.com/memonmuhammadali98](https://github.com/memonmuhammadali98)
 
