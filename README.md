@@ -150,8 +150,6 @@ At GIAIC, Muhammad Ali gained hands on experience through projects, hackathons, 
 
 ### <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/icons/bar-chart-line-fill.svg" width="22" height="22"/> GitHub Stats
 
-### <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/icons/bar-chart-line-fill.svg" width="22" height="22"/> GitHub Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mraly-eng&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraly-eng&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
