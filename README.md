@@ -1,4 +1,4 @@
-![logo](https://github.com/memonmuhammadali98/memonmuhammadali98/blob/main/Git%20Hub%20Baneer.png)
+![logo](https://github.com/mraly-eng/mraly-eng/blob/main/Git%20Hub%20Baneer.png)
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=36&pause=1500&color=000000&center=true&vCenter=true&width=700&height=80&lines=Hi+There!+This+is+Muhammad+Ali;Artificial+Intelligence+Specialist;Hi+There!+This+is+Muhammad+Ali&repeat=false" alt="Hi There! This is Muhammad Ali"/>
 </div>
@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=memonmuhammadali98&label=Profile%20views&color=0e75b6&style=flat" alt="memonmuhammadali98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mraly-eng&label=Profile%20views&color=0e75b6&style=flat" alt="mraly-eng" /> </p>
 
  𝐌𝐮𝐡𝐚𝐦𝐦𝐚𝐝 𝐀𝐥𝐢 | 𝐀𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝐓𝐞𝐜𝐡 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫 | 𝐀𝐈 & 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 
@@ -50,7 +50,7 @@ At GIAIC, Muhammad Ali gained hands on experience through projects, hackathons, 
 <div align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
 <a href="https://portfolio-muhammad-ali.vercel.app/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/planetscale.svg" height="30"/></a>
 <a href="https://www.linkedin.com/in/muhammadali-memon99" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="30"/></a>
-<a href="https://github.com/memonmuhammadali98" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="30"/></a>
+<a href="https://github.com/mraly-eng" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="30"/></a>
 <a href="mailto:your-email@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="30"/></a>
 <a href="https://discord.com/users/1237062445613453355"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="30"/></a>
 </div>
@@ -151,10 +151,10 @@ At GIAIC, Muhammad Ali gained hands on experience through projects, hackathons, 
 ### <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/icons/bar-chart-line-fill.svg" width="22" height="22"/> GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=memonmuhammadali98&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=memonmuhammadali98&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=mraly-eng8&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mraly-eng&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=memonmuhammadali98&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mraly-eng&theme=tokyo-night&hide_border=true"/>
 </p>
